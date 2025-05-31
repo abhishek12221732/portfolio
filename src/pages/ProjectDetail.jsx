@@ -14,7 +14,7 @@ const ProjectDetail = () => {
       <div className="container mx-auto px-6 max-w-5xl">
         {/* Back Button */}
         <motion.a
-          href="/#projects"
+          href="/porfolio/#projects"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2 }}
